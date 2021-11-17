@@ -17,7 +17,7 @@ X-Api-Key: sua-aplicacao|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Toda chave de API está associada uma Organização previamente cadastrada no Signer. Sendo assim, o escopo dessa chave fica **restrito àquela organização**,
 isto é, aquela chave só permitirá acessar/criar documentos daquela organização.
 
-> [!NOTE]
+> ![NOTE]
 > Para obter uma chave de API entre em contato com o administrador da sua instância.
 
 
